@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hej there 👋
+
+Feel free to know more about me [here!](casemiromjm.github.io)
+
+- 🔭 I’m currently working on keeping up with university
+- 🌱 I’m currently learning A LOT
+- 📫 How to reach me: [Linkedin](linkedin.com/in/casemiromjm) or via [e-mail](mailto:casemiromelojorge@gmail.com)!
+
+  <!--
+  quero add aquelas coisinhas legais de readme
+  -->
 
 <!--
 **casemiromjm/casemiromjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
