@@ -1,10 +1,10 @@
 ## Hej there 👋
 
-Feel free to know more about me [here!](casemiromjm.github.io)
+Feel free to know more about me [here!](www.casemiromjm.github.io)
 
 - 🔭 I’m currently working on keeping up with university
 - 🌱 I’m currently learning A LOT
-- 📫 How to reach me: [Linkedin](linkedin.com/in/casemiromjm) or via [e-mail](mailto:casemiromelojorge@gmail.com)!
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/casemiromjm) or via [e-mail](mailto:casemiromelojorge@gmail.com)!
 
   <!--
   quero add aquelas coisinhas legais de readme
