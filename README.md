@@ -1,6 +1,6 @@
 ## Hej there 👋
 
-Feel free to know more about me [here!](casemiromjm.me)
+Feel free to know more about me [here!](https://casemiromjm.me)
 
 - 🔭 I’m currently working on keeping up with university
 - 🌱 I’m currently learning A LOT
