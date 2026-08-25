@@ -3,12 +3,12 @@
 Feel free to know more about me [here!](https://casemiromjm.me)
 
 - 🔭 I’m currently working on keeping up with university
-- 🌱 I’m currently learning A LOT
+- 🌱 I’m currently doing my Master's in Informatics and Computing Engineering at FEUP. You can check my academic background [here!](https://casemiromjm.me/uni-index)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/casemiromjm) or via [e-mail](mailto:casemiromelojorge@gmail.com)!
 
-  <!--
-  quero add aquelas coisinhas legais de readme
-  -->
+<!--
+quero add aquelas coisinhas legais de readme
+-->
 
 <!--
 **casemiromjm/casemiromjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
