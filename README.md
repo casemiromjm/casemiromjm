@@ -6,9 +6,9 @@ Feel free to know more about me [here!](https://casemiromjm.me)
 - 🌱 I’m currently doing my Master's in Informatics and Computing Engineering at FEUP. You can check my academic background [here!](https://casemiromjm.me/uni-index)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/casemiromjm) or via [e-mail](mailto:casemiromelojorge@gmail.com)!
 
-<!--
-quero add aquelas coisinhas legais de readme
--->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=casemiromjm&hide_title=true&custom_title=my%20github%20stats&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=casemiromjm&hide_title=true&custom_title=my%20github%20stats&show_icons=true&include_all_commits=true)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=casemiromjm&hide_title=true&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=casemiromjm&hide_title=true&langs_count=6)
 
 <!--
 **casemiromjm/casemiromjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
